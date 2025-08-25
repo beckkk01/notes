@@ -1,0 +1,193 @@
+---
+title: Rule 1 - Subject Verb Agreement
+date: 24-08-2025
+topic: Rules Of Grammar
+subject: English
+type: notes
+---
+
+# Rule 1: Subject-Verb Agreement
+
+## Rule Explanation
+The fundamental principle of Subject-Verb Agreement dictates that a **singular subject** must be paired with a **singular verb**, and a **plural subject** must be paired with a **plural verb** [1]. This ensures grammatical consistency within a sentence.
+
+**Key takeaway:** The verb in a sentence must always match its subject in number (singular or plural).
+
+## Examples
+Here are some examples illustrating Subject-Verb Agreement:
+
+*   **Singular Subject with Singular Verb:**
+    *   **English:** She **likes** tea [1].
+    *   **Hindi:** वह चाय **पसंद करती है**।
+    *   **English:** The student **is** studying diligently.
+    *   **Hindi:** छात्र **लगन से पढ़ रहा है**।
+    *   **English:** A dog **barks** loudly.
+    *   **Hindi:** एक कुत्ता जोर से **भौंकता है**।
+
+*   **Plural Subject with Plural Verb:**
+    *   **English:** They **like** cricket [1].
+    *   **Hindi:** वे क्रिकेट **पसंद करते हैं**।
+    *   **English:** The students **are** studying diligently.
+    *   **Hindi:** छात्र **लगन से पढ़ रहे हैं**।
+    *   **English:** Dogs **bark** loudly.
+    *   **Hindi:** कुत्ते जोर से **भौंकते हैं**।
+
+## Types of Questions in SSC and Bank Exams (Based on Rule 1)
+
+1.  **Basic Agreement:** This involves the direct application of the rule: a singular subject takes a singular verb, and a plural subject takes a plural verb [1].
+    *   **Example:** "He **plays** football every evening" is correct, not "He play football every evening" [1].
+
+2.  **Collective Nouns:**
+    *   When a collective noun (e.g., team, committee, family, jury, audience, government) acts as a single, unified unit, it takes a **singular verb** [2, 3].
+    *   When the individual members within the collective noun are acting separately or independently, emphasising their distinct actions, it takes a **plural verb** [2, 3].
+    *   **Example (Unit):** The committee **has** made its decision [3].
+    *   **Example (Individuals):** The committee **are** arguing among themselves about the decision.
+
+3.  **Nouns Plural in Form but Singular in Meaning:**
+    *   Some nouns, despite ending in '-s' or '-es', represent a single concept, subject, disease, or entity, and therefore take a **singular verb** [4].
+    *   **Examples:** Mathematics, civics, physics, economics (subjects); news, summons [4].
+    *   **Sentence Example:** The news **is** fake [4]. The summons **was** issued by the court [4].
+
+4.  **Nouns Always Plural:**
+    *   Certain nouns are always used in their plural form and consequently take a **plural verb** [5]. These often include instruments with two identical parts (e.g., spectacles, tongs, scissors, pliers) or articles of dress (e.g., trousers, jeans) [5].
+    *   **Sentence Example:** My spectacles **are** broken.
+
+5.  **Indefinite Pronouns:**
+    *   Pronouns like each, every, everyone, everybody, anyone, anybody, no one, nobody, someone, somebody are always treated as **singular** and take a **singular verb** [6-12].
+    *   **Sentence Example:** Everyone should bring **his or her** notebook [6]. Each student **got** a certificate [13].
+
+6.  **Phrases like "One of the...":**
+    *   When one of the is used, it is followed by a **plural noun** but the main verb agrees with one, so it takes a **singular verb** [10, 14, 15].
+    *   **Sentence Example:** One of the students **is** absent. One of the girls **is** singing.
+
+7.  **Correlative Conjunctions ("Neither...nor", "Either...or"):**
+    *   When two or more subjects are joined by neither...nor or either...or, the verb agrees with the **subject closer to it** (the second subject) [16, 17].
+    *   **Sentence Examples:** Neither Ramesh nor Suresh **was** present. Neither the teacher nor the students **were** late. Either the teacher or the principal **has** to approve.
+
+8.  **"A number of" vs "The number of":**
+    *   A number of (meaning "many") is followed by a **plural noun** and takes a **plural verb** [71, Rule 106].
+    *   The number of (referring to a specific quantity or count) is followed by a **plural noun** but takes a **singular verb** [71, Rule 106].
+    *   **Sentence Examples:** A number of students **have** come to attend the class . The number of students attending the class **has** increased.
+
+9.  **"More than one...":**
+    *   More than one is followed by a **singular noun** and takes a **singular verb** [72, Rule 108].
+    *   **Sentence Example:** More than one room **is** vacant.
+
+10. **Subjects Joined by "as well as", "together with", "along with":**
+    *   When two subjects are joined by phrases such as as well as, together with, along with, and not, but, in addition to, besides, except, rather than, like, unlike, with, no less than, nothing but, the verb agrees with the **first subject** [73, 74, Rule 111].
+    *   **Sentence Examples:** You **as well as** your brother **were** absent yesterday [20]. Shreya **alongwith** her sisters **is** working on the project.
+
+11. **Compound Subjects with "and":**
+    *   When two or more subjects are joined by and, they usually take a **plural verb** [22].
+    *   **Example:** The minister and the poet **have** come.
+    *   However, if the two subjects joined by and refer to the **same person or thing**, or express a single idea/concept, they take a **singular verb** [70, 74, Rule 112].
+    *   **Examples:** The minister and poet **has** come (implying one person who is both minister and poet) [22]. Bread and butter **is** a wholesome food (single idea) [21]. Slow and steady **wins** the race (single idea).
+
+## Quiz Questions
+[
+  {
+    "questionID": "1",
+    "question": "Choose the correct sentence: A) He play football every evening. B) They plays football every evening. C) He plays football every evening. D) They playing football every evening.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C",
+    "solution": "According to Rule 1, a singular subject takes a singular verb [1]. The subject 'He' is singular, so it requires a singular verb 'plays' to agree with it. 'They' is plural and takes 'play' (not 'plays'). 'Playing' requires an auxiliary verb."
+  },
+  {
+    "questionID": "2",
+    "question": "Spot the error: Each of the girls (A)/ were given (B)/ a chocolate. (C)/ No error (D)",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B",
+    "solution": "Indefinite pronouns like 'Each' are singular [8, 9]. Therefore, the subject 'Each of the girls' is singular and should take a singular verb 'was given', not 'were given'."
+  },
+  {
+    "questionID": "3",
+    "question": "Choose the correct sentence: A) Each of the players has their uniform. B) Each of the players have his uniform. C) Each of the players has his uniform. D) Each of the player has their uniform.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C",
+    "solution": "The phrase 'Each of the players' is treated as singular [6, 7, 9]. It requires a singular verb 'has'. The possessive pronoun must also be singular; 'his' is appropriate when gender is unspecified or refers to a general individual [6, 7, 9]. Option D is incorrect because 'player' should be plural after 'Each of the' [6, 7, 9]."
+  },
+  {
+    "questionID": "4",
+    "question": "Choose the correct sentence: A) Everyone must submit their forms. B) Each of the boys must bring their book. C) Every player should carry their water bottle. D) Every student must bring his or her notebook.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D",
+    "solution": "Indefinite pronouns such as 'Everyone', 'Each', and 'Every' are singular. They require singular possessive pronouns ('his' or 'her' or 'his or her') for agreement [6, 7]. 'Their' is plural and incorrect in options A, B, and C. Option D correctly uses 'Every student' (singular) with 'his or her' (singular possessive pronoun)."
+  },
+  {
+    "questionID": "5",
+    "question": "Choose the correct sentence: A) The committee have made its decision. B) The committee has made its decision. C) The committee were made its decision.",
+    "options": ["A", "B", "C"],
+    "answer": "B",
+    "solution": "When a collective noun like 'committee' acts as a single, unified unit (as indicated by 'its decision'), it takes a singular verb [2, 3]. 'Has made' is the correct singular verb form."
+  },
+  {
+    "questionID": "6",
+    "question": "Choose the correct sentence: A) Neither he nor I am responsible. B) Neither he or I is responsible. C) Neither he nor I are responsible. D) Neither he nor I is responsible.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "A",
+    "solution": "With correlative conjunctions like 'Neither...nor', the verb agrees with the subject closer to it [16, 17]. Here, 'I' is closer to the verb, so the verb should be 'am'."
+  },
+  {
+    "questionID": "7",
+    "question": "Choose the correct sentence: A) Either she or her sisters is attending. B) Either she or her sisters are attending. C) Neither she nor her sisters is attending. D) Neither she or her sisters are attending.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B",
+    "solution": "With 'Either...or', the verb agrees with the subject closer to it [17]. 'Her sisters' is a plural subject, so 'are attending' is correct. Option C uses 'is attending' with a plural subject 'her sisters', which is incorrect. Option D incorrectly uses 'or' with 'Neither'."
+  },
+  {
+    "questionID": "8",
+    "question": "Choose the correct sentence: A) Every of the boys were late. B) Each of the boys was late. C) Each boys was late. D) Every boys was late.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B",
+    "solution": "'Each of the boys' is a singular construction and correctly takes a singular verb 'was' [8, 9]. 'Every of the boys' and 'Each boys' / 'Every boys' are grammatically incorrect uses of 'Each' and 'Every'."
+  },
+  {
+    "questionID": "9",
+    "question": "Choose the correct sentence: A) One of the boy are missing. B) One of the boy is missing. C) One of the boys are missing. D) One of the boys is missing.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D",
+    "solution": "The phrase 'One of the' must be followed by a plural noun ('boys'), but the verb agrees with 'one', making it singular ('is missing') [10, 14]."
+  },
+  {
+    "questionID": "10",
+    "question": "Choose the correct sentence: A) One of the players have scored. B) One of the students are late. C) One of the girls is singing. D) One of the boys have broken the rule.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C",
+    "solution": "Following the rule for 'One of the...', a plural noun is used (players, students, girls, boys), but the verb must be singular [10, 15]. 'Is singing' correctly agrees with the singular 'One'."
+  },
+  {
+    "questionID": "11",
+    "question": "Which of the following sentences correctly applies Subject-Verb Agreement with a collective noun? A) The jury were divided in its opinion. B) The jury was divided in their opinions. C) The jury was divided in its opinion. D) The jury were divided in their opinions.",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D",
+    "solution": "When the members of a collective noun act individually (as suggested by 'divided in their opinions'), it takes a plural verb and a plural possessive pronoun [2, 3]. Thus, 'were divided' and 'their opinions' is correct."
+  },
+  {
+    "questionID": "12",
+    "question": "The news (A)/ are (B)/ alarming. (C)/ No error (D)",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B",
+    "solution": "'News' is a noun that is plural in form but singular in meaning [4]. Therefore, it requires a singular verb 'is', not 'are'. The error is in part B."
+  },
+  {
+    "questionID": "13",
+    "question": "Mathematics (A)/ is (B)/ a difficult subject. (C)/ No error (D)",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D",
+    "solution": "'Mathematics' is the name of a subject, which is plural in form but singular in meaning [4]. It correctly takes the singular verb 'is'. There is no error in the sentence."
+  },
+  {
+    "questionID": "14",
+    "question": "A number of students (A)/ has passed (B)/ the examination this year. (C)/ No error (D)",
+    "options": ["A", "B", "C", "D"],
+    "answer": "B",
+    "solution": "'A number of' means 'many' and functions as a plural quantifier. It is followed by a plural noun ('students') and requires a plural verb. The correct verb should be 'have passed' [71, Rule 106]. The error is in part B."
+  },
+  {
+    "questionID": "15",
+    "question": "The number of students (A)/ attending the workshop (B)/ have decreased. (C)/ No error (D)",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C",
+    "solution": "'The number of' refers to a specific count and is treated as a singular subject, even when followed by a plural noun ('students'). It therefore takes a singular verb. The correct verb should be 'has decreased' [71, Rule 106]. The error is in part C."
+  }
+]
